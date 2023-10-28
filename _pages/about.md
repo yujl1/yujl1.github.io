@@ -15,7 +15,7 @@ My research interest is theoretical machine learning, including robust covarianc
 <h2 id="education"> Education</h2>
 
 - Special student Program (Undergraduate visiting program)  
-  Massachusettes Institute of Technology (Sep.2020 - Jan.2023)
+  Massachusettes Institute of Technology (09/2020 - 01/2023)
   
 - Bachelor of Science, Mathematics and Applied Mathematics   
   ShanghaiTech University, IMS (2020 - 2024 (expected))
@@ -27,4 +27,4 @@ My research interest is theoretical machine learning, including robust covarianc
 
 <h2 id="teaching"> Teaching</h2>
 
-- TA for  Mathematical Analysis I (GEMA1009) & II (GEMA1010) at ShanghaiTech University (Sep.2021 - Jul.2022)
+- TA for  Mathematical Analysis I (GEMA1009) & II (GEMA1010) at ShanghaiTech University (09/2021 - 07/2022)
