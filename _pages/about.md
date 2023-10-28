@@ -22,7 +22,7 @@ My research interest is theoretical machine learning, including robust covarianc
 
 <h2 id="experience"> Experience</h2>
 - Independent Researcher, Massachusettes Institute of Technology, PI: Prof. [Patrick Jaillet](https://web.mit.edu/jaillet/www/); PhD Student Advisor: [Moïse Blanchard](https://moiseb.github.io) (12/2022 - present)
-Selected write-ups: [The projection algorithm](https://www.overleaf.com/read/dgsqbzggmvqq#bcaa27)
+Selected write-ups: [The projection algorithm](https://www.overleaf.com/read/dgsqbzggmvqq#bcaa27), [Fast access to all gradients in N iterations] (url: /files/Jialin (Mark) YU - Resume Aug 2023 v6 readable.pdf)
 - Research Intern, ShanghaiTech University, adivised by Prof. [Ziping Zhao](https://faculty.sist.shanghaitech.edu.cn/zhao/)
   (06/2023 - present)
 
