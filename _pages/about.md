@@ -27,7 +27,7 @@ Selected write-ups: <a href="/files/The_proof_of_the_projection_algorithm-5.pdf"
 - Research Intern, ShanghaiTech University, adivised by Prof. [Ziping Zhao](https://faculty.sist.shanghaitech.edu.cn/zhao/)
    (06/2023 - present)
 
-Selected write-ups: <a href="/files/Huber robust covariance estimation oracle rate.pdf">Large robust covariance estimation with oracle rate</a> (to be updated)
+Selected write-ups: <a href="/files/Huber robust only l1 case.pdf">$l^1$-penalized robust covariance estimation</a>, <a href="/files/Huber robust logdet l1 case.pdf">$l^1$-penalized log-determinant constrained robust covariance estimation</a>, <a href="/files/Huber robust covariance estimation oracle rate.pdf">Large robust covariance estimation with oracle rate</a>.
 <h2 id="teaching"> Teaching</h2>
 
 - TA for  Mathematical Analysis I (GEMA1009) & II (GEMA1010) at ShanghaiTech University (09/2021 - 07/2022)
