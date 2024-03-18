@@ -15,7 +15,7 @@ My research interest is theoretical machine learning, including robust covarianc
 <h2 id="education"> Education</h2>
 
 - [Special student Program](https://registrar.mit.edu/registration-academics/registration-information/special-student-registration) (nondegree exchange program)  
-  Massachusettes Institute of Technology (09/2020 - 01/2023)
+  Massachusettes Institute of Technology (09/2022 - 01/2023)
   
 - Bachelor of Science, Mathematics and Applied Mathematics   
   [ShanghaiTech University, IMS](https://ims.shanghaitech.edu.cn/ims_en/) (2020 - 2024 (expected))
