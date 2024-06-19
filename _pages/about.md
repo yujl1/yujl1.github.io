@@ -10,7 +10,7 @@ redirect_from:
 
 I am an undergraduate student at Institute of Mathematical Science (IMS), ShanghaiTech University since 2020. 
 
-My research interest is theoretical machine learning, including robust covariance estimation and memory-constrainted convex optimization.
+My research interest is statistics and optimization, including robust covariance estimation and memory-constrainted convex optimization.
 
 <h2 id="education"> Education</h2>
 
