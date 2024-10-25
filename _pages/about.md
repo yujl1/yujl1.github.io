@@ -27,7 +27,7 @@ Selected write-ups: <a href="/files/The_proof_of_the_projection_algorithm-5.pdf"
 - Research Intern, ShanghaiTech University, adivised by Prof. [Ziping Zhao](https://faculty.sist.shanghaitech.edu.cn/zhao/)
    (06/2023 - present)
 
-Selected write-ups: <a href="/files/Huber_robust_covariance_estimation_cvx.pdf">$l^1$-penalized robust sparse covariance estimation</a>, <a href="/files/Huber robust covariance estimation oracle rate.pdf">Large robust sparse covariance estimation with oracle rate</a>.
+Selected write-ups: <a href="/files/9.21_Huber_robust_covariance_estimation_cvx.pdf">$l^1$-penalized robust sparse covariance estimation</a>, <a href="/files/Huber robust covariance estimation oracle rate.pdf">Large robust sparse covariance estimation with oracle rate</a>.
 
 <h2 id="teaching"> Teaching</h2>
 
