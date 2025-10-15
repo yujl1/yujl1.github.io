@@ -8,17 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student at Institute of Mathematical Science (IMS), ShanghaiTech University since 2020. 
+I am PhD student in Operations Research at H. Milton Stewart School of Industrial and Systems Engineering, GeorgiaTech since August 2024. 
 
-My research interest is statistics and optimization, including robust covariance estimation and memory-constrainted convex optimization.
+My research interest is statistics and optimization, including robust estimation and memory-constrainted convex optimization. My research advisor is Prof. [Moise Blanchard](http://moiseb.github.io).
 
 <h2 id="education"> Education</h2>
 
-- [Special student Program](https://registrar.mit.edu/registration-academics/registration-information/special-student-registration) (nondegree exchange program)  
-  Massachusettes Institute of Technology (09/2022 - 01/2023)
+- PhD, Operations Research   
+  [Georgia Institute of Technology, ISyE]([https://ims.shanghaitech.edu.cn/ims_en/](https://www.isye.gatech.edu)) (2024 - 2029(expected))
   
 - Bachelor of Science, Mathematics and Applied Mathematics   
-  [ShanghaiTech University, IMS](https://ims.shanghaitech.edu.cn/ims_en/) (2020 - 2024 (expected))
+  [ShanghaiTech University, IMS](https://ims.shanghaitech.edu.cn/ims_en/) (09/2020 - 07/2024)
+
+- [Special student Program](https://registrar.mit.edu/registration-academics/registration-information/special-student-registration) (nondegree exchange program)  
+  Massachusettes Institute of Technology (09/2022 - 01/2023)
 
 <h2 id="experience"> Experience</h2>
 - Independent Researcher, Massachusettes Institute of Technology, PI: Prof. [Patrick Jaillet](https://web.mit.edu/jaillet/www/); PhD Student Advisor: [Moïse Blanchard](https://moiseb.github.io)  (12/2022 - present)
