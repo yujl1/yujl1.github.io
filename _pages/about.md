@@ -14,7 +14,7 @@ My research interest is statistics and optimization, including robust estimation
 
 <h2 id="education"> Education</h2>
 
-- PhD, Operations Research   
+- PhD candidate, Operations Research   
   [Georgia Institute of Technology, ISyE]([https://ims.shanghaitech.edu.cn/ims_en/](https://www.isye.gatech.edu)) (2024 - 2029(expected))
   
 - Bachelor of Science, Mathematics and Applied Mathematics   
