@@ -23,16 +23,16 @@ My research interest is in optimization and learning theory, including resource-
 - [Special student Program](https://registrar.mit.edu/registration-academics/registration-information/special-student-registration) (nondegree exchange program)  
   Massachusettes Institute of Technology (09/2022 - 01/2023)
 
-%{ <h2 id="experience"> Experience</h2>
+//<h2 id="experience"> Experience</h2>
 
-- Independent Researcher, Massachusettes Institute of Technology, PI: Prof. [Patrick Jaillet](https://web.mit.edu/jaillet/www/); PhD Student Advisor: [Moïse Blanchard](https://moiseb.github.io)  (12/2022 - 04/2024)
+//- Independent Researcher, Massachusettes Institute of Technology, PI: Prof. [Patrick Jaillet](https://web.mit.edu/jaillet/www/); PhD Student Advisor: [Moïse Blanchard](https://moiseb.github.io)  (12/2022 - 04/2024)
 
-Selected write-ups: <a href="/files/The_proof_of_the_projection_algorithm-5.pdf">The Projection Algorithm</a>, <a href="/files/Alg_for_access_to_all_gradients_in_N_iterations(1).pdf">Fast access to all gradients in N iterations</a>.
+//Selected write-ups: <a href="/files/The_proof_of_the_projection_algorithm-5.pdf">The Projection Algorithm</a>, <a href="/files/Alg_for_access_to_all_gradients_in_N_iterations(1).pdf">Fast access to all gradients in N iterations</a>.
 
-- Research Intern, ShanghaiTech University, adivised by Prof. [Ziping Zhao](https://faculty.sist.shanghaitech.edu.cn/zhao/)
+//- Research Intern, ShanghaiTech University, adivised by Prof. [Ziping Zhao](https://faculty.sist.shanghaitech.edu.cn/zhao/)
    (06/2023 - 07/2024)
 
-Selected write-ups: <a href="/files/9_21_Huber_robust_covariance_estimation_cvx.pdf">$l^1$-penalized robust sparse covariance estimation</a>, <a href="/files/Huber robust covariance estimation oracle rate.pdf">Large robust sparse covariance estimation with oracle rate</a>.}
+//Selected write-ups: <a href="/files/9_21_Huber_robust_covariance_estimation_cvx.pdf">$l^1$-penalized robust sparse covariance estimation</a>, <a href="/files/Huber robust covariance estimation oracle rate.pdf">Large robust sparse covariance estimation with oracle rate</a>.
 
 <h2 id="teaching"> Teaching</h2>
 
