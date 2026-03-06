@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jialin (Mark) Yu"
+title                    : "Jialin Yu"
 title_separator          : "-"
 name                     : &name "Jialin Yu"
 description              : &description "PhD student at ISyE, GeorgiaTech"
