@@ -37,7 +37,7 @@ Selected write-ups: <a href="/files/9_21_Huber_robust_covariance_estimation_cvx.
 -->
 
 <h2 id="Preprints"> Preprints</h2>
-[Distribution-Free Sequential Prediction with Abstentions](https://arxiv.org/abs/2602.17918v1).
+- [Distribution-Free Sequential Prediction with Abstentions](https://arxiv.org/abs/2602.17918v1).
 
 <h2 id="teaching"> Teaching</h2>
 
