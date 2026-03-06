@@ -36,6 +36,9 @@ Selected write-ups: <a href="/files/The_proof_of_the_projection_algorithm-5.pdf"
 Selected write-ups: <a href="/files/9_21_Huber_robust_covariance_estimation_cvx.pdf">$l^1$-penalized robust sparse covariance estimation</a>, <a href="/files/Huber robust covariance estimation oracle rate.pdf">Large robust sparse covariance estimation with oracle rate</a>.
 -->
 
+<h2 id="Preprints"> Preprints</h2>
+[Distribution-Free Sequential Prediction with Abstentions](https://arxiv.org/abs/2602.17918v1).
+
 <h2 id="teaching"> Teaching</h2>
 
 - TA for  Mathematical Analysis I (GEMA1009) & II (GEMA1010) at ShanghaiTech University (09/2021 - 07/2022)
