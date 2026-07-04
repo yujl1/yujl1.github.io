@@ -10,7 +10,7 @@ redirect_from:
 
 I am PhD student in Operations Research at H. Milton Stewart School of Industrial and Systems Engineering, GeorgiaTech since August 2024. 
 
-My research interest is in optimization and learning theory, including resource-constrainted convex optimization and sequential decision making. I am fortunate to be advised by Prof. [Moise Blanchard](http://moiseb.github.io).
+My research interest is in optimization and learning theory, including resource-constrainted convex optimization and sequential decision making. I am fortunate to be advised by Prof. [Moïse Blanchard](http://moiseb.github.io).
 
 <h2 id="education"> Education</h2>
 
@@ -36,7 +36,7 @@ Selected write-ups: <a href="/files/The_proof_of_the_projection_algorithm-5.pdf"
 Selected write-ups: <a href="/files/9_21_Huber_robust_covariance_estimation_cvx.pdf">$l^1$-penalized robust sparse covariance estimation</a>, <a href="/files/Huber robust covariance estimation oracle rate.pdf">Large robust sparse covariance estimation with oracle rate</a>.
 -->
 
-<h2 id="preprints"> Preprints</h2>
+<h2 id="preprints"> Preprints and Publications</h2>
 - [Distribution-Free Sequential Prediction with Abstentions](https://arxiv.org/abs/2602.17918v1)
 
 <h2 id="teaching"> Teaching</h2>
