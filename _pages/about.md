@@ -41,6 +41,7 @@ Selected write-ups: <a href="/files/9_21_Huber_robust_covariance_estimation_cvx.
 
 <h2 id="talks"> Talks</h2>
 - Memory/Query Complexity Tradeoffs for High-accuracy Feasibility Problems (IOS, 2026)
+
 - Distribution-Free Sequential Prediction with Abstentions (COLT, 2026)
 
 <h2 id="teaching"> Teaching</h2>
