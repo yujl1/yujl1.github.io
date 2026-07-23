@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am PhD student in Operations Research at H. Milton Stewart School of Industrial and Systems Engineering, GeorgiaTech since August 2024. 
+I've been a PhD student in Operations Research at H. Milton Stewart School of Industrial and Systems Engineering, GeorgiaTech since August 2024. 
 
-My research interest is in optimization and learning theory, including resource-constrainted convex optimization and sequential decision making. I am fortunate to be advised by Prof. [Moïse Blanchard](http://moiseb.github.io).
+My research interest is in optimization and learning theory, including resource-constrainted convex optimization and sequential decision making. I'm fortunate to be advised by Prof. [Moïse Blanchard](http://moiseb.github.io).
 
 <h2 id="education"> Education</h2>
 
